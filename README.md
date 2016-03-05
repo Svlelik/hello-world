@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi humans!
+
+This the first message from Alex on GitGub!
